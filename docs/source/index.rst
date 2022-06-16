@@ -20,5 +20,6 @@ Contents
 
 .. toctree::
 
+   registrasi
    usage
    api
