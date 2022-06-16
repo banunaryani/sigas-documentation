@@ -21,5 +21,6 @@ Contents
 .. toctree::
 
    registrasi
+   presensi
    usage
    api
