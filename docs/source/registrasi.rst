@@ -15,7 +15,7 @@ Lupa Password
 -------------
 
 Apabila Anda lupa password Anda, silakan menuju ke halaman login. Klik ``Lupa Password`` dan Anda akan dibawa ke halaman baru untuk memasukkan email Anda yang terdaftar di sistem. Klik ``Minta Password Baru`` dan Anda akan mendapatkan email berisi informasi untuk mereset ulang password Anda.
-
+ 
 .. _link ini: http://sigas.geoartscience.co.id/
 
 .. autosummary::
