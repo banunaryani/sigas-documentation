@@ -16,3 +16,4 @@ Contents
    registrasi
    presensi
    lapor_progress
+   koordinator
