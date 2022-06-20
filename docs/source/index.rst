@@ -1,19 +1,12 @@
-Welcome to Lumache's documentation!
+Selamat Datang di Dokumentasi SIGAS!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**SIGAS** adalah sistem informasi internal perusahaan `CV. Geo Art Science <https://geoartscience.co.id/>`_ untuk mengelola proyek dan karyawan perusahaan.
 
-Lumache has its documentation hosted on Read the Docs.
+Fitur-fitur SIGAS:
+#. Manajemen proyek internal
+#. Presensi harian pegawai
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
 
 Contents
 --------
@@ -22,5 +15,4 @@ Contents
 
    registrasi
    presensi
-   usage
-   api
+   lapor_progress
