@@ -24,6 +24,9 @@ Membatalkan Presensi
 3. Klik pada kotak presensi yang ingin dihapus.
 4. Akan muncul jendela untuk mengonfirmasi pembatalan presensi, klik ``Hapus``.
 
+.. image:: assets/membatalkan_presensi.gif
+   :alt: membatalkan presensi
+
 
 Melihat Keterangan Presensi
 ---------------------------
@@ -41,4 +44,4 @@ Apabila tidak ada data presensi pada bulan yang dipilih, maka akan muncul pesan 
 .. autosummary::
    :toctree: generated
 
-   lumache
+   sigas

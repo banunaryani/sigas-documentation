@@ -21,4 +21,4 @@ Apabila Anda lupa password Anda, silakan menuju ke halaman login. Klik ``Lupa Pa
 .. autosummary::
    :toctree: generated
 
-   lumache
+   sigas
